@@ -35,13 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashSharmaYS&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharmaYS&layout=compact&theme=dark)
-
----
-
 ## 🏅 Certifications
 - Google Data Analytics Professional Certificate
 - Microsoft Power BI Data Analyst Associate
