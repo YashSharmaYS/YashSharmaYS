@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash Sharma
 
-## Aspiring Data-Driven Business Analyst
+## Data-Driven Business Analyst
 
 💡 I am passionate about transforming data into actionable insights that drive business decisions.  
 📊 Skilled in Python, SQL, Power BI, Tableau, and various databases, with a focus on data storytelling and automation.  
