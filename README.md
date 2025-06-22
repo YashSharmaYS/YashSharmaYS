@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/yashsharmays3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsharmays3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
 
 ---
