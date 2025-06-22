@@ -1,46 +1,72 @@
-# Hi 👋, I'm Yash Sharma
+# Yash Sharma – Business & Data Analytics Portfolio
 
-## Data-Driven Business Analyst
-
-💡 I am passionate about transforming data into actionable insights that drive business decisions.  
-📊 Skilled in Python, SQL, Power BI, Tableau, and various databases, with a focus on data storytelling and automation.  
-🌱 Currently enhancing my expertise in machine learning, cloud analytics, and predictive modeling.  
-🚀 Open to opportunities where I can apply data analysis to solve real-world business challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue)](http://www.linkedin.com/in/yashsharmays3)
+[![GitHub](https://img.shields.io/badge/GitHub-YashSharmaYS-black)](https://github.com/YashSharmaYS)
+[![Email](https://img.shields.io/badge/Email-sharmayash0202@gmail.com-red)](mailto:sharmayash0202@gmail.com)
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsharmays3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yashsharma___3/)
+## 📝 About Me
 
+I am a **Business and Data Analyst** with 3+ years of experience turning complex data into actionable insights. My focus areas include:
+- **Data Visualization & BI:** Power BI, SQL, Tableau  
+- **Predictive Analytics & ML:** Python (Pandas, Scikit-learn), clustering, forecasting  
+- **Process Automation & Optimization:** BPMN, workflow reengineering  
+- **Project Management:** Jira, Confluence, Agile methodologies  
 
----
-
-## 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+I thrive on driving operational improvements, cost reductions, and data-driven decision-making.
 
 ---
 
-## ⚡ Featured Projects
-- 📈 [Sales Forecasting Model](https://github.com/your-repo): Predict future sales trends using machine learning algorithms.
-- 🛒 [Customer Segmentation](https://github.com/your-repo): Cluster customers for targeted marketing strategies using unsupervised learning.
-- 🏪 [Location Expansion Feasibility Model](https://github.com/your-repo): Evaluate potential store locations using demographic and traffic data.
+## 🚀 Featured Projects
+
+### 📊 Walmart Customer Segmentation
+- Segmented customers using KMeans clustering for targeted marketing.
+- Improved segmentation accuracy by 20% after cleaning and preprocessing 10,000+ records.
+- Drove a 10% increase in conversions through actionable marketing strategies.
+
+➡ [GitHub Repository](https://github.com/YashSharmaYS/walmart-customer-segmentation)
 
 ---
 
-## 🏅 Certifications
-- Google Data Analytics Professional Certificate
-- Microsoft Power BI Data Analyst Associate
-- 10+ certificates on trending technologies
+### 🛍️ Sephora E-commerce Purchase Prediction
+- Built a Random Forest model (96% accuracy) to predict product recommendations.
+- Applied sentiment analysis on 300,000+ reviews to improve product development.
+- Launched loyalty campaigns that increased retention by 15%.
+
+➡ [GitHub Repository](https://github.com/YashSharmaYS/sephora-purchase-prediction)
 
 ---
 
-## 🚀 Visitor Badge
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YashSharmaYS.YashSharmaYS)
+### 📈 Wouessi BI Dashboard & Process Automation
+- Consolidated KPIs into a Power BI dashboard, cutting report time by 40%.
+- Configured CRM + automation tools, reducing onboarding time by 30%.
+- Delivered a strategic roadmap adopted by the executive team.
+
+➡ [GitHub Repository](https://github.com/YashSharmaYS/wouessi-bi-dashboard)
+
+---
+
+## 🛠 Core Skills
+
+- **BI & Data Viz:** Power BI, Tableau, Excel  
+- **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL  
+- **Analysis & Modeling:** Predictive analytics, clustering, sentiment analysis, regression  
+- **Process Improvement:** BPMN, root cause analysis, automation  
+- **Project Tools:** Jira, Confluence, Agile/Scrum  
+
+---
+
+## 🎓 Education & Certifications
+
+- Postgrad Certificate – Analytics for Business Decision Making (George Brown College, 2025) 
+- Postgrad Certificate - Project Management, 2024
+- Btech in Engineering, 2019 
+- ECBA Certified (IIBA, 2025)  
+- Google Analytics 4 Certified  
+
+---
+
+## 🤝 Let’s Connect
+
+💼 [LinkedIn](http://www.linkedin.com/in/yashsharmays3) | 🌐 [GitHub](https://github.com/YashSharmaYS) | 📧 [Email](mailto:sharmayash0202@gmail.com)
