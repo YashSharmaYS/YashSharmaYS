@@ -25,16 +25,12 @@ I thrive on driving operational improvements, cost reductions, and data-driven d
 - Improved segmentation accuracy by 20% after cleaning and preprocessing 10,000+ records.
 - Drove a 10% increase in conversions through actionable marketing strategies.
 
-➡ [GitHub Repository](https://github.com/YashSharmaYS/walmart-customer-segmentation)
-
 ---
 
 ### 🛍️ Sephora E-commerce Purchase Prediction
 - Built a Random Forest model (96% accuracy) to predict product recommendations.
 - Applied sentiment analysis on 300,000+ reviews to improve product development.
 - Launched loyalty campaigns that increased retention by 15%.
-
-➡ [GitHub Repository](https://github.com/YashSharmaYS/sephora-purchase-prediction)
 
 ---
 
@@ -43,16 +39,12 @@ I thrive on driving operational improvements, cost reductions, and data-driven d
 - Configured CRM + automation tools, reducing onboarding time by 30%.
 - Delivered a strategic roadmap adopted by the executive team.
 
-➡ [GitHub Repository](https://github.com/YashSharmaYS/wouessi-bi-dashboard)
-
 ---
 
 ### 🚗 Tesla Stock Price Forecasting (LSTM)
 - Built an LSTM model on 2,957 Tesla stock price records, achieving **MAPE 4.47%** and **R² 0.9871** for 21-day forecasts.
 - Visualized trends, confidence bands, and rolling MAPE to support risk assessment and trading strategy.
 - Recommended integration of external signals (news sentiment, macro indicators) to enhance model robustness.
-
-➡ [GitHub Repository](https://github.com/YashSharmaYS/tesla-stock-forecasting)
 
 ---
 
@@ -70,7 +62,7 @@ I thrive on driving operational improvements, cost reductions, and data-driven d
 
 - Postgrad Certificate – Analytics for Business Decision Making (George Brown College, 2025) 
 - Postgrad Certificate - Project Management, 2024
-- Btech in Engineering, 2019 
+- B.Tech in Engineering, 2019 
 - ECBA Certified (IIBA, 2025)  
 - Google Analytics 4 Certified  
 
