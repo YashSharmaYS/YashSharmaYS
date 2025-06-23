@@ -42,7 +42,7 @@ I thrive on driving operational improvements, cost reductions, and data-driven d
 ---
 
 ### 🚗 Tesla Stock Price Forecasting (LSTM)
-- Built an LSTM model on 2,957 Tesla stock price records, achieving **MAPE 4.47%** and **R² 0.9871** for 21-day forecasts.
+- Built an LSTM model on 2,957 Tesla stock price records, achieving **MAPE 3.67%** and **R² 0.9971** for 21-day forecasts.
 - Visualized trends, confidence bands, and rolling MAPE to support risk assessment and trading strategy.
 - Recommended integration of external signals (news sentiment, macro indicators) to enhance model robustness.
 
